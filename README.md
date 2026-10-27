@@ -128,3 +128,9 @@ Share the release ZIP containing source, tests and documentation. **Do not share
 For bug reports, provide patcher version, macOS version, app/build, failing step and concise error. Redact usernames in paths. Raw Office logs may contain renewal tokens and account identifiers; do not post them.
 
 SHA256SUMS detects changes relative to this archive, but does not authenticate its publisher. Obtain the archive through a trusted channel and review its source.
+
+## Buy me a coffee
+
+This patch is free and MIT-licensed. If it saved your installation and you want to say thanks, you can [buy me a coffee](https://buymeacoffee.com/azriel46d) — entirely optional and never required.
+
+[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=azriel46d&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/azriel46d)
